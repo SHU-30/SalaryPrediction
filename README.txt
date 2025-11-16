@@ -1,0 +1,3 @@
+This project demonstrates how to build a Multiple Linear Regression model to predict employee salaries based on several independent variables such as years of experience, education level, job role, and other relevant features.
+
+The goal is to show how machine learning can be used to model real-world salary data and assist in data-driven decision-making for HR analytics, workforce planning, or compensation benchmarking.
